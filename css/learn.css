@@ -1,0 +1,43 @@
+.main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  word-break: break-all;
+}
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  flex: auto;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 15px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 15%;
+}
+
+/* Clear floats after rows */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  text-align: center;
+  background-color: #fee195;
+  opacity: 0.9;
+  padding: 10px;
+  font-family: palanquin-light;
+  height: 100%;
+}

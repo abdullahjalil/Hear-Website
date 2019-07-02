@@ -8,7 +8,7 @@
 }
 html, body{
   margin: auto;
-  background: url('../resources/images/background.jpg') no-repeat center center fixed;
+  background:black url('../resources/images/background.jpg') no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   font-family: palanquin-light;
@@ -89,5 +89,33 @@ html, body{
 
 }
 #text-1{
-  color:
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+#text-2{
+  animation-duration: 3.5s;
+  animation-name: slidein;
+}
+#text-3{
+  animation-duration: 4s;
+  animation-name: slidein;
+}
+#text-4{
+  animation-duration: 4.5s;
+  animation-name: slidein;
+}
+#text-5{
+  animation-duration: 5s;
+  animation-name: slidein;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }

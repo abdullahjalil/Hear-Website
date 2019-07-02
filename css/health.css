@@ -4,8 +4,6 @@ body{
   background-size: cover;
   height: 100%;
 }
-h2{
+#PageHeading{
   font-size: 50px;
-  font-family: palanquin-semibold;
-  color: white;
 }

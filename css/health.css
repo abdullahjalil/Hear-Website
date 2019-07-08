@@ -5,5 +5,21 @@ body{
   height: 100%;
 }
 #PageHeading{
+  color: #FAFAFA;
   font-size: 50px;
+}
+.card{
+  background: #88a8ba;
+}
+.btn{
+  color: #FAFAFA;
+  text-decoration: none;
+}
+.btn-link{
+  color: #FAFAFA;
+  text-decoration: none;
+}
+.btn-link:hover{
+  color: #fee195;
+  text-decoration: none;
 }

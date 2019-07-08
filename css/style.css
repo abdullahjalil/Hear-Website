@@ -119,3 +119,7 @@ html, body{
     width: 100%;
   }
 }
+#PageHeading{
+  color: #FAFAFA;
+  font-size: 50px;
+}

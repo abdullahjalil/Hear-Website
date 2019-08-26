@@ -8,6 +8,24 @@ body{
   color: #FAFAFA;
   font-size: 50px;
 }
+#health-col-1{
+  background-color: #88a8ba;
+  color: #212529;
+  padding: 5px;
+  margin: 5px;
+}
+#health-col-2{
+  background-color: #88a8ba;
+  color: #212529;
+  padding: 5px;
+  margin: 5px;
+}
+#health-col-3{
+  background-color: #88a8ba;
+  color: #212529;
+  padding: 5px;
+  margin: 5px;
+}
 .card{
   background: #88a8ba;
 }

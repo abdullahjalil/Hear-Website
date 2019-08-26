@@ -4,6 +4,21 @@ body{
   background-size: cover;
   height: 100%;
 }
-.container{
+#health-col-1{
+  background-color: #ec8b64
+  color: #212529;
+  padding: 5px;
+  margin: 5px;
+}
+#health-col-2{
   background-color: #ec8b64;
+  color: #212529;
+  padding: 5px;
+  margin: 5px;
+}
+#health-col-3{
+  background-color: #ec8b64;
+  color: #212529;
+  padding: 5px;
+  margin: 5px;
 }

@@ -13,6 +13,9 @@ body{
   color: #212529;
   padding: 5px;
   margin: 5px;
+  border-style: groove;
+  border-width: 2px;
+  border-color: #212529;
   animation: fadein 2s;
     -moz-animation: fadein 2s; /* Firefox */
     -webkit-animation: fadein 2s; /* Safari and Chrome */
@@ -23,6 +26,9 @@ body{
   color: #212529;
   padding: 5px;
   margin: 5px;
+  border-style: groove;
+  border-width: 2px;
+  border-color: #212529;
   animation: fadein 2.5s;
     -moz-animation: fadein 2s; /* Firefox */
     -webkit-animation: fadein 2s; /* Safari and Chrome */
@@ -33,6 +39,9 @@ body{
   color: #212529;
   padding: 5px;
   margin: 5px;
+  border-style: groove;
+  border-width: 2px;
+  border-color: #212529;
   animation: fadein 3s;
     -moz-animation: fadein 2s; /* Firefox */
     -webkit-animation: fadein 2s; /* Safari and Chrome */
